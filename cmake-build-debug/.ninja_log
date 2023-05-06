@@ -1,9 +1,0 @@
-# ninja log v5
-1	328	7008402387221383	build.ninja	a7742c684693ab3b
-6	806	7002349242977924	CMakeFiles/untitled.dir/main.cpp.obj	a0371f60b2a15b26
-1081	1307	7008401737206464	automat.exe	10b160fe2ea64c94
-617	764	7008383929591091	untitled.exe	7987aa1c589b4a3f
-6	616	7008383928174675	CMakeFiles/untitled.dir/llll.cpp.obj	1b0c1fef21601a7e
-1	1075	7008401734930543	CMakeFiles/automat.dir/llll.cpp.obj	96074fa4d5d6042f
-1	456	7008402403805092	CMakeFiles/automat.dir/base.cpp.obj	5d351b25b3ca3e24
-458	558	7008402404795310	automat.exe	1faaaae5c539c4ba

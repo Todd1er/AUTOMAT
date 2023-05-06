@@ -1,3 +1,0 @@
-C:/Users/drnks/CLionProjects/untitled/cmake-build-debug/CMakeFiles/automat.dir
-C:/Users/drnks/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/drnks/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
